@@ -5,7 +5,7 @@
 
 ---
 
-The objective of the Ecommerce Sales Dashboard project is to assist the owner of  Store in tracking and analyzing their online sales across Us. By leveraging Power BI, we aim to provide an interactive dashboard that offers insights into sales performance, customer behavior, and regional trends.
+The objective of the HR_Analytics Dashboard project is to assist the owner of  Store in tracking and analyzing their online sales across Us. By leveraging Power BI, we aim to provide an interactive dashboard that offers insights into sales performance, customer behavior, and regional trends.
 
 > To interact with the dashboard you can download the pbix file from the repository and open it in Power BI Desktop locally.
 
