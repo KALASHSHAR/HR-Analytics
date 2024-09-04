@@ -20,10 +20,11 @@ The objective of the HR_Analytics Dashboard project is to assist the owner of  S
 5. ⚒️Data Modelling and Building Parameters in Power BI using DAX
 6. 📊Building the Dashboard in Power BI
 
+
 ---
 
 # Screenshots of the Dashboard:
 
 
 
-![HR_Analytics Dashboard](https://github.com/user-attachments/assets/a5396ee6-6048-4af2-8b2b-ff400a1a224a)
+![HR_Analytics Dashboard](https://github.com/user-attachments/assets/cc2db6b8-04e7-45f0-933f-c5322df38ffc)
