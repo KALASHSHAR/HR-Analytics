@@ -22,6 +22,7 @@ The objective of the HR_Analytics Dashboard project is to assist the owner of  S
 
 
 ---
+![Power Bi](HR_Analytics Dashboard.jpg)
 
 # Screenshots of the Dashboard:
 
