@@ -24,5 +24,6 @@ The objective of the HR_Analytics Dashboard project is to assist the owner of  S
 
 # Screenshots of the Dashboard:
 
-![HR_Analytics](https://github.com/KALASHSHAR/HR-Analytics/blob/c9dccc971eb0e7992ebe5dd55dcece2b255e6e6c/HR_Analytics%20Dashboard.jpg)
 
+
+![HR_Analytics Dashboard](https://github.com/user-attachments/assets/a5396ee6-6048-4af2-8b2b-ff400a1a224a)
